@@ -1,11 +1,3 @@
-const tombol = document.createElement('button');
-tombol.innerText = 'Mulai';
-tombol.addEventListener('click', function() {
-  window.location.href = 'https://www.notion.so/';
-});
-
-document.body.appendChild(tombol);
-
 const blink = document.getElementById('blink');
 const colors = ['red', 'blue', 'orange', 'purple'];
 let currentColorIndex = 0;
