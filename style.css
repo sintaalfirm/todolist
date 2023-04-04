@@ -104,8 +104,8 @@ footer {
 }
 button {
     position: absolute;
-    left: 170px;
-    top: 430px;
+    left: 165px;
+    top: 400px;
     transform: translateX(-50%);
     background-color: #2B99A0;
     color: white;
